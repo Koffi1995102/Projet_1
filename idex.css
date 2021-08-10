@@ -1,4 +1,4 @@
-.pade{
+.page{
     width: 780px;
     margin: auto;
 font-family:'source sans pro',calibri,tahoma,sans-ser ;
@@ -15,11 +15,11 @@ font-size: 16px;
 
 }
 section{
-    margin-bottom:70px;
+    margin-bottom:30px;
     text-align:justiy;
 }
 
-sec-gauche{
+.sec-gauche{
     float:left;
     font-weight:bold  
     font-size-20px;   
@@ -31,6 +31,5 @@ h2{
        font-size: 28px;
        color:#3388BB;
        border-bottom:3px solid#3388DD;
-
     }
 

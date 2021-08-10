@@ -5,7 +5,7 @@ font-family:'source sans pro',calibri,tahoma,sans-ser ;
 font-size: 16px;
 }
 .infophoto{
-    height:200px;
+    height:250px;
 }
 .info{
      float:left;
@@ -15,8 +15,8 @@ font-size: 16px;
 
 }
 section{
-    margin-bottom:30px;
-    text-align:justiy;
+    margin-bottom:70px;
+    text-align:justify;
 }
 
 .sec-gauche{

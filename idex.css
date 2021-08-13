@@ -12,11 +12,12 @@ font-size: 16px;
 }
 .photo{
       float:right;
-      border-style: outset;
       border-style: inset;
-      width: auto;
-      height: auto;
-
+      border-right: inset;
+      width: none;
+      height: 6rem;
+      margin-top: 6rem;
+      
 }
 section{
     margin-bottom:70px;
@@ -44,4 +45,11 @@ h2{
         color:#3388BB;
         border-style: outset;
      }
- 
+ body{
+    width: 800px;
+    margin: auto;
+    font-size: 16px;
+    border-top-width: 2rem;
+    border-color: #083058;
+    border-style: solid;
+ }

@@ -12,13 +12,19 @@ font-size: 16px;
 }
 .photo{
       float:right;
+      border-style: outset;
+      border-style: inset;
+      width: auto;
+      height: auto;
 
 }
 section{
     margin-bottom:70px;
     text-align:justify;
 }
-
+h1{
+    border-style: inset;
+}
 .sec-gauche{
     float:left;
     font-weight:bold  
@@ -31,9 +37,11 @@ h2{
        font-size: 28px;
        color:#3388BB;
        border-bottom:3px solid#3388DD;
-    }
-    strong2{
+       border-style: double;
+}
+    h3{
         font-size: 17px;
         color:#3388BB;
+        border-style: outset;
      }
  
